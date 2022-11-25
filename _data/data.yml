@@ -23,6 +23,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars: elioflores
   goodreads: # Number-Username, e.g. 123456-alandoe
+  frontendmentor: '@elioflo'
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -113,25 +114,22 @@ projects:
     title: Projects
     
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Notification Page
+        link: "https://elioflo.github.io/notification-page/"
+        tagline: "A responsive website based on a challenge from FrontendMentor."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: News homepage
+        link: "https://elioflo.github.io/news-homepage-main/"
+        tagline: "A responsive website based on a challenge from FrontendMentor."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Reloj Chekcador
+        link: "https://github.com/BC-MAY-21-ROR/kata-06-el-reloj-checador-k6-ca-reilero-05"
+        tagline: "A BrightCoder bootcamp project."
 
-      - title: Atom
+      - title: Tribo
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A BrightCoder bootcamp project. I participate in the creation of the API and the web page"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -146,19 +144,25 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Java
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: Ruby
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: Ruby on Rails
+      level: 60%
 
-    - name: C/C++
+    - name: HTML
+      level: 60%
+
+    - name: CSS
+      level: 60%
+
+    - name: SASS
+      level: 60%
+
+    - name: JavaScript
       level: 40%
 
 # NO MODIFICAR
