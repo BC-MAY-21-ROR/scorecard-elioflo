@@ -15,19 +15,19 @@ sidebar:
   email: eliofloreschoque2357@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  linkedin: elio-flores-b32371226
+  github: elioflo
+  gitlab: elioflo
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@7532elioflo'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: elioflores
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: C1 Advanced # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
